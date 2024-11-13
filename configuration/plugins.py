@@ -11,3 +11,6 @@
 #     ADD YOUR SETTINGS HERE
 #   }
 # }
+
+PLUGINS = ["netbox_topology_views"]
+
